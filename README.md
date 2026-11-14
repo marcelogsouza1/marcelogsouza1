@@ -76,3 +76,20 @@ Busco uma oportunidade na área de tecnologia para aplicar meus conhecimentos, d
 
 * **LinkedIn:** [linkedin.com/in/marcelogsouza](https://www.linkedin.com/in/marcelogsouza/)
 * **GitHub:** [github.com/marcelogsouza1](https://github.com/marcelogsouza1)
+
+## 🚀 Projetos em Destaque
+
+### 🤖 Meu Kit Pessoal de IA — Santander | IA para o dia a dia (DIO)
+
+Projeto desenvolvido durante o bootcamp Santander - IA para o dia a dia, com foco na aplicação prática de Inteligência Artificial.
+
+**O que desenvolvi:**
+- Analisador Inteligente de Vagas com IA.
+- Preparador Inteligente de Entrevistas.
+- Checklist para validação de respostas geradas por IA.
+- Aplicação prática na análise de uma vaga de Engenharia de Dados.
+- Documentação e evidências de execução.
+
+**Competências praticadas:** Engenharia de Prompts, Inteligência Artificial Generativa, análise crítica, documentação e validação humana.
+
+🔗 **[Acessar repositório do projeto](https://github.com/marcelogsouza1/marcelo-ai-toolkit)**
